@@ -1,4 +1,4 @@
-name: General Song Feeds
+name: General Podcast Feeds
 on: [push]
 jobs: 
  build:
